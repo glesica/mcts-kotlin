@@ -1,4 +1,4 @@
-package mcts
+package com.lesica.mcts
 
 /**
  * An interface that describes the mechanics of a particular

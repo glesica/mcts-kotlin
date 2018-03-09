@@ -1,4 +1,4 @@
-package mcts
+package com.lesica.mcts
 
 /**
  * Implementation of the actual MCTS algorithm. Consumers may

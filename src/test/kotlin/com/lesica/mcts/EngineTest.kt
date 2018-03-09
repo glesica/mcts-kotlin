@@ -1,4 +1,4 @@
-package mcts
+package com.lesica.mcts
 
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Nested

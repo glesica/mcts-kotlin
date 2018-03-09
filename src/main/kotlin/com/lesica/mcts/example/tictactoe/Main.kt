@@ -1,6 +1,6 @@
-package example.tictactoe
+package com.lesica.mcts.example.tictactoe
 
-import mcts.Engine
+import com.lesica.mcts.Engine
 import kotlin.system.exitProcess
 
 fun main(args: Array<String>) {

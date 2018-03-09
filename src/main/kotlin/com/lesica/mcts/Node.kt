@@ -1,4 +1,4 @@
-package mcts
+package com.lesica.mcts
 
 /**
  * A particular node in the search tree. Used internally to track

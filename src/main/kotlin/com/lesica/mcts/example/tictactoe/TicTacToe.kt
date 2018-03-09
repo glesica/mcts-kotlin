@@ -1,6 +1,6 @@
-package example.tictactoe
+package com.lesica.mcts.example.tictactoe
 
-import mcts.Game
+import com.lesica.mcts.Game
 
 class TicTacToe: Game<Move, Board, Player> {
 

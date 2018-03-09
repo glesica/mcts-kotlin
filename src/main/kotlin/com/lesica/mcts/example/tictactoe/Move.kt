@@ -1,4 +1,4 @@
-package example.tictactoe
+package com.lesica.mcts.example.tictactoe
 
 enum class Move {
     NW,

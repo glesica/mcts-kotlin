@@ -1,4 +1,4 @@
-package mcts
+package com.lesica.mcts
 
 import java.util.*
 

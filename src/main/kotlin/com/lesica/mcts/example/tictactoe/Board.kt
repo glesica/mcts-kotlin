@@ -1,6 +1,6 @@
-package example.tictactoe
+package com.lesica.mcts.example.tictactoe
 
-import mcts.isEven
+import com.lesica.mcts.isEven
 
 class Board {
 

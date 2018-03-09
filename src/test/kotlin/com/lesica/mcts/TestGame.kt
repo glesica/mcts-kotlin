@@ -1,4 +1,4 @@
-package mcts
+package com.lesica.mcts
 
 /**
  * Implementation of a game that isn't very much fun, but has
